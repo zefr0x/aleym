@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = ["core", "daemon"]
+
+[workspace.package]
+version = "0.1.0-alpha.0"
+authors = ["zefr0x"]
+edition = "2024"
+repository = "https://github.com/zefr0x/aleym.git"
+license = "AGPL-3.0-only"

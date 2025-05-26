@@ -1,0 +1,8 @@
+[package]
+name = "aleym-core"
+version = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+homepage = "https://github.com/zefr0x/aleym/tree/main/core"
+repository = { workspace = true }
