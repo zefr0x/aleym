@@ -2,6 +2,9 @@
 
 <h1>Aleym | عَلِيم</h1>
 
+[![release](https://github.com/zefr0x/aleym/actions/workflows/publish_release.yml/badge.svg)](https://github.com/zefr0x/aleym/actions/workflows/publish_release.yml)
+[![test](https://github.com/zefr0x/aleym/actions/workflows/test.yml/badge.svg)](https://github.com/zefr0x/aleym/actions/workflows/test.yml)
+[![lint](https://github.com/zefr0x/aleym/actions/workflows/lint.yml/badge.svg)](https://github.com/zefr0x/aleym/actions/workflows/lint.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/zefr0x/aleym/main.svg)](https://results.pre-commit.ci/latest/github/zefr0x/aleym/main)
 
 A game changing, feature-rich, and highly extensible **news aggregation system and knowledge base** designed to
